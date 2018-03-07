@@ -1,6 +1,6 @@
 # build
 
-My go application build script supporting auto build versioning and application other information.
+My go application build subtree supporting auto build versioning and application other information.
 
 layouts：
 ```shell
